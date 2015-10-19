@@ -1,0 +1,41 @@
+body {
+	background: #e3cdb8;
+	float: center;
+	margin-right: 10 px;
+	text-align: justify;
+}
+#heading {
+	color: #fff5f4;
+	font-family: Vivaldi, cursive;
+	font-size: 50px;
+	text-align: center;
+}
+.part{
+	text-align: relative;
+}
+h3 {
+	color: #7a5c44;
+	font-style: sans-serif;
+}
+p {
+	line-height: 1px;
+}
+.part1 {
+	padding: 15px;
+	border: 10px solid #7a5c44;
+	margin: 30px auto;
+	width: 50%;
+	position: relative;
+	content: fixed;
+}
+.part2 {
+	padding: 15px;
+	border: 10px solid #7a5c44;
+	margin: 30px auto;
+	width: 50%;
+	position: relative;
+	content: fixed;
+}
+#one{
+	img: object-fit;
+}

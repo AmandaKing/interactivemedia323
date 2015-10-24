@@ -61,20 +61,23 @@ h1 {
 	content: fixed;
 	align-content: center;
 }	
-#Back to Top {
-}
-.container li {
-    list-style-position: inside;
-} 
 a:link {
-	/* unvisited link */
+	/*nonvisited link*/
     color: #7a5c44;
     padding-right: -1px;
+    text-decoration: none;
  }
+a:visited {
+	/*visited link*/
+    text-decoration: line-through;
+}
  a:hover {
+ 	/*hover over link*/
     color: #fff5f4;
-    padding: -1px;
- }
+    text-decoration: underline;
+   	display: inline-block;
+}
  a:active {
+ 	/*active link*/
     color: black;
 } 

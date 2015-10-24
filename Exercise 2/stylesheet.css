@@ -1,41 +1,80 @@
 body {
+	/*Changed the color of the background and floated the boxes in the middle of the page*/
 	background: #e3cdb8;
 	float: center;
 	margin-right: 10 px;
 	text-align: justify;
 }
 #heading {
+	/*Changed the heading color, font-family/size/alignment*/
 	color: #fff5f4;
 	font-family: Vivaldi, cursive;
-	font-size: 50px;
+	font-size: 40px;
 	text-align: center;
+	font-weight: bold;
+	letter-spacing: -1px
 }
 .part{
+	/*aligned the text to relative*/
 	text-align: relative;
 }
 h3 {
+	/*Changed the color/style of the h3 headers*/
 	color: #7a5c44;
 	font-style: sans-serif;
+	font-style: normal;
+	text-transform: capitalize;
+
 }
 p {
+	/*Changed the line height of the paragraphs*/
 	line-height: 1px;
 }
 .part1 {
+	/*Put a border around part 1 to compartmentalize the content, added padding, margin, position, and adjusted content*/
 	padding: 15px;
 	border: 10px solid #7a5c44;
 	margin: 30px auto;
-	width: 50%;
+	width: 750px;
 	position: relative;
 	content: fixed;
+	align-content: center;
 }
 .part2 {
+	/*Did the same as .part1*/
 	padding: 15px;
 	border: 10px solid #7a5c44;
 	margin: 30px auto;
-	width: 50%;
+	width: 750px;
 	position: relative;
 	content: fixed;
+	align-content: center;
+}	
+
+h1 {
+	/*moved h1 to align with compartments*/
+	color: #7a5c44;
+	padding: 10px;
+	margin: 25px auto;
+	width: 750px;
+	position: relative;
+	content: fixed;
+	align-content: center;
+}	
+#Back to Top {
 }
-#one{
-	img: object-fit;
-}
+.container li {
+    list-style-position: inside;
+} 
+a:link {
+	/* unvisited link */
+    color: #7a5c44;
+    padding-right: -1px;
+ }
+ a:hover {
+    color: #fff5f4;
+    padding: -1px;
+ }
+ a:active {
+    color: black;
+} 

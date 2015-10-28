@@ -1,0 +1,141 @@
+body { 
+	background: #DEB887; 
+}
+.topbar { 
+	/*ivory*/
+	height: 50px; 
+	width: 100%;
+	background: #FFFFF0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: auto;
+} 
+.login {
+	/*lightgoldenrodyellow*/
+	height: 50px; 
+	width: 100px;
+	background: #FFE4B5;
+	position: absolute;
+	top: 0;
+	right: 100px;
+	margin: auto;
+}
+.logincontent {
+	position: relative;
+	top: 30%;
+	left: 40%;
+	color: #DEB887;
+}
+.create {
+	height: 50px; 
+	width: 250px;
+	background: #FFFFF0;
+	margin: auto;
+	margin-top: 300px;
+}
+.createcontent {
+	position: relative;
+	top: 30%;
+	left: 50%;
+	margin: auto;
+	color: #DEB887;
+}
+.circles {
+    margin: auto;
+    margin-top: 350px;
+    padding: auto;
+    display: table;
+}
+.column {
+	margin: auto;
+	width: 250px;
+	height: 75px;
+	display: inline-block;
+}
+.earth { 
+	width: 65px; 
+	height: 65px;  
+	border: solid 2px #FFFFF0; 
+	border-radius: 50px; 
+	position: relative;
+	margin: auto;
+}
+.dot {
+	margin-top: 100px;
+	float: below;
+	position: relative;
+	padding-left: 40%;
+	color: #FFFFF0;
+}
+.easiest {
+	height: 100px; 
+	width: 100%;
+	background: #FFFFF0;
+	position: absolute;
+	margin-top: 90px;
+	right: 0;
+	left: 0;
+}
+.easiest2 {
+	height: 575px; 
+	width: 100%;
+	background: #FFFFF0;
+	opacity: 0.4;
+	position: absolute;
+	float: below;
+	margin: auto;
+	margin-top: 175px;
+	right: 0;
+	left: 0;
+}
+.squares {
+	position: static;
+    margin: auto;
+    margin-top: 375px;
+    display: table;
+}
+.column2 {
+	margin: auto;
+	width: 300px;
+	height: 75px;
+	display: inline-block;
+}
+.circle7 { 
+	width: 289px; 
+	height: 200px;  
+	background: #FFFFF0; 
+	position: static;
+	margin: auto;
+	margin-top: 11px;
+}
+.circle6 { 
+	width: 289px; 
+	height: 200px;   
+	background: #FFFFF0; 
+	position: static;
+	margin: auto;
+	margin-top: -105px;
+}
+.bottombar {
+	height: 250px; 
+	width: 100%;
+	background: #FFFFF0;
+	position: absolute;
+	margin-top: 290px;
+	left: 0;
+}
+.createbottom {
+	height: 50px; 
+	width: 250px;
+	background: #DEB887;
+	margin: auto;
+	margin-top: 140px;
+}
+.bottomcontent {
+	position: relative;
+	top: 30%;
+	left: 50%;
+	margin: auto;
+	color: #FFFFF0;
+}

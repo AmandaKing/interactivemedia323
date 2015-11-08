@@ -1,5 +1,4 @@
 .para {
-	margin: 10px 10px 10px 10px;
 }
 
 .class {
@@ -65,7 +64,7 @@
 	margin-top: 53px;
 	margin-left: -290px;
 	font-family: Courier;
-	letter-spacing: 15.75px;
+	letter-spacing: 13.5px;
 }
 .monu {
 	font-family: "Century Gothic";
@@ -102,8 +101,8 @@
 .stand {
 	position: absolute;
 	width: 50px;
-	margin-top: 425px;
-	margin-left: -70px;
+	margin-top: 435px;
+	margin-left: -220px;
 	font-size: 25px;
 }
 .scene {

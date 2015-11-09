@@ -1,0 +1,12 @@
+.text2 {
+	width: 3000px;
+	margin-left: 50px;
+	font-size: 15px;
+	letter-spacing: 50px;
+	font-family: Courier;
+	display: inline-block;
+}
+.small {
+	font-family: Impact;
+	font-size: 25px;
+}

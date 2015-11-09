@@ -1,0 +1,149 @@
+.paragraph {
+	text-align: left;
+	font-size: 45px;
+	font-family: "Brush Script MT";
+	position: absolute;
+}
+.sound {
+	position: fixed;
+	font-family: "Arial";
+	font-size: 1000px;
+	color: white;
+	z-index: -1;
+	margin-top: -210px;
+}
+.visual {
+	margin-top: 65px;
+	position: absolute;
+	font-family: "Courier";
+	margin-left: 170px;
+}
+
+
+
+/*Letter S*/
+.that {
+	margin-top: 178px; 
+	margin-left: 155px;
+}
+.isso {
+	margin-left: 57px;
+}
+.ishow {
+	margin-left: 100px;
+}
+.from {
+	margin-left: 340px;
+	margin-top: -40px;
+}
+.ref {
+	margin-left: 57px;
+	width
+}
+.fov {
+	margin-top: -30px;
+	margin-left: 160px;
+}
+
+
+
+/*Letter O*/
+.like {
+	margin-top: -590px;
+	margin-left: 730px;
+}
+.gb {
+	margin-left: 562px;
+}
+.fromthe {
+	margin-left: 540px;
+}
+.vic {
+	margin-left: 549px;
+}
+.ment {
+	margin-top: 30px;
+	margin-left: 710px;
+}
+
+
+/*Letter U*/
+.best {
+	margin-top: -580px;
+	margin-left: 1125px;
+}
+.vo {
+	margin-left: 1125px;
+}
+.ishad {
+	margin-left: 1125px;
+}
+.ishad2 {
+	margin-left: 1125px;
+}
+.ishad3 {
+	margin-left: 1165px;
+}
+.ishad4 {
+	margin-left: 1125px;
+}
+.ishad5 {
+	margin-top: -60px;
+	margin-left: 1275px;
+}
+
+
+/*Letter N*/
+.which {
+	margin-top: -600px;
+	margin-left: 1680px;
+}
+.monu {
+	margin-left: 1680px;
+}
+.vis {
+	margin-left: 1680px;
+}
+.visl {
+	margin-left: 1680px;
+}
+.lab {
+	margin-left: 1680px;
+}
+
+
+
+/*Letter D*/
+.lab2 {
+	margin-top: -560px;
+	margin-left: 2353px;
+}
+.lab3 {
+	margin-top: -300px;
+	margin-left: 2615px;
+}
+.lab4 {
+	margin-left: 2605px;
+}
+.lab5 {
+	margin-left: 2625px;
+}
+.lab6 {
+	margin-left: 2225px;
+}
+.lab7 {
+	margin-left: 2210px;
+}
+.lab8 {
+	margin-left: 2230px;
+}
+.monu2 {
+	margin-left: 2390px;
+}
+.leftover {
+	font-family: "Courier";
+	display: inline-block;
+	text-align: left;
+	margin-left: 2300px; 
+	font-size: 25px;
+}

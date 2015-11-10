@@ -1,0 +1,8 @@
+.para {
+	height: 150px;
+	width: 50px;
+	position: relative;
+	display: inline-block;
+	float: left;
+	border: 100px solid black;
+}

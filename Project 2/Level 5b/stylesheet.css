@@ -1,0 +1,112 @@
+.at-large{ 
+	height: 200px;
+	width: 900px;
+	margin-left: 400px;
+	margin-top: 300px;
+}
+/*paragraphs*/
+.aat {
+	position: absolute;
+	border: 5px solid transparent;
+	width: 200px;
+	height: 200px;
+	z-index: -1;
+	color: #FFB6C1;
+	font-size: 20px;
+}
+.bat {
+	position: absolute;
+	border: 5px solid transparent;
+	margin-left: 210px;
+	width: 200px;
+	height: 200px;
+	z-index: -1;
+	font-size: 20px;
+	color: #FFB6C1;
+}
+.cat {
+	position: absolute;
+	border: 5px solid transparent;
+	width: 200px;
+	margin-left: 430px;
+	height: 200px;
+	z-index: -1;
+	font-size: 20px;
+	color: #FFB6C1;
+}
+.dat {
+	position: absolute;
+	border: 5px solid transparent;
+	width: 200px;
+	margin-left: 640px;
+	height: 200px;
+	z-index: -1;
+	font-size: 20px;
+	color: #FFB6C1;
+}
+
+
+/*& edits*/
+.ata {
+	margin-left: 5px;
+	z-index: 2;
+	padding-right: 5px;
+	border: 1px dashed black;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	transition: background-color 0.75s ease;
+}
+.atb {
+	padding-right: 5px;
+	z-index: 2;
+	border: 1px dashed black;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	transition: background-color 0.75s ease;
+}
+.atc {
+	padding-right: 5px;
+	z-index: 2;
+	border: 1px dashed black;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	transition: background-color 0.75s ease;
+}
+.atd {
+	padding-right: 5px;
+	z-index: 2;
+	border: 1px dashed black;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	transition: background-color 0.75s ease;
+}
+/*& contents*/
+.ap {
+	margin-top: -25px;
+	font-size: 220px;
+	text-align: center;
+	transition: background-color 0.1s ease;
+}
+.ap:hover {
+	color: transparent;
+}
+.ata:hover {
+	background-color: transparent;
+}
+.atb:hover {
+	background-color: transparent;
+}
+.atc:hover {
+	background-color: transparent;
+}
+.atd:hover {
+	background-color: transparent;
+}

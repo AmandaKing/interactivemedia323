@@ -1,22 +1,23 @@
 .at-large{ 
 	height: 500px;
 	width: 1200px;
-	margin-left: 200px;
-	margin-top: 100px;
+	margin-left: 1000px;
+	margin-top: 1000px;
 }
 
 /*paragraph*/
 .aat {
 	position: absolute;
 	border: 5px solid transparent;
-	width: 1200px;
+	width: 1500px;
 	height: 550px;
 	z-index: -1;
 	color: #F5F5F5;
 	font-size: 20px;
 	font-size: 48px;
-	font-family: "Brush Script MT";
+	font-family: "Georgia";
 	transition: all 0.75s ease-in
+	-webkit-transition: all 0.75s ease-in
 }
 
 
@@ -26,25 +27,28 @@
 	z-index: 2;
 	padding-right: 5px;
 	display: inline-block;
-	width: 1200px;
+	width: 1500px;
 	height: 560px;
 	background-color: transparent;
-	transition: all 0.75s ease-in;
-	
+	transition: all 0.75s ease-in
+	-webkit-transition: all 0.75s ease-in
 }
 
 
-/*& contents*/
+/*user contents*/
 .ap {
 	opacity: 0;
 	margin-top: -90px;
-	font-size: 600px;
+	font-size: 700px;
+	margin-left: -50px;
 	text-align: center;
 	background-color: transparent;
-	transition: all 0.75s ease-in;
+	transition: all 0.75s ease-in
+	-webkit-transition: all 0.75s ease-in
 }
 .ap:hover {
 	opacity: .90;
-    transition: all 0.75s ease-in;
+ 	transition: all 0.75s ease-in
+	-webkit-transition: all 0.75s ease-in
     background-color: white;
 }

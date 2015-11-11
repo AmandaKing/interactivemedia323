@@ -13,6 +13,7 @@
 	z-index: -1;
 	color: #FFB6C1;
 	font-size: 20px;
+	padding: 7px 7px 7px 7px;
 }
 .bat {
 	position: absolute;
@@ -23,26 +24,29 @@
 	z-index: -1;
 	font-size: 20px;
 	color: #FFB6C1;
+		padding: 7px 7px 7px 7px;
 }
 .cat {
 	position: absolute;
-	border: 5px solid transparent;
+	border: 7px solid transparent;
 	width: 200px;
-	margin-left: 430px;
+	margin-left: 420px;
 	height: 200px;
 	z-index: -1;
-	font-size: 20px;
+	font-size: 19.5px;
 	color: #FFB6C1;
+	padding: 7px 7px 7px 7px;
 }
 .dat {
 	position: absolute;
 	border: 5px solid transparent;
 	width: 200px;
-	margin-left: 640px;
+	margin-left: 634px;
 	height: 200px;
 	z-index: -1;
 	font-size: 20px;
 	color: #FFB6C1;
+	padding: 7px 7px 7px 7px;
 }
 
 

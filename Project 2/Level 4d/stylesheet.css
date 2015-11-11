@@ -18,28 +18,29 @@
 .is-so {
 	position: absolute;
 	display: clear-left;
-	margin-top: -70px;
+	margin-top: -40px;
 	font-family: Courier;
 	font-size: 32px;
 	margin-left: 10px;
 }
 .basic {
-	font-family: cursive;
-	font-size: 57px;
+	font-family: "Impact";
+	font-size: 50px;
 	position: absolute;
-	margin-top: -19px;
+	margin-top: -50px;
+	margin-left: 110px;
 }
 .appears {
 	position: absolute;
 	display: clear-left;
-	margin-top: -50px;
+	margin-top: -40px;
 	font-family: "Times New Roman";
 	letter-spacing: 5px;
 	font-size: 32px;
 	margin-left: 250px;
 }
 .app {
-	margin-left: 30px;
+	margin-left: 25px;
 	margin-right: 30px;
 	letter-spacing: -2px;
 	line-height: 10px;
@@ -47,7 +48,7 @@
 .from {
 	display: inline-block;
 	position: absolute;
-	margin-top: -37px;
+	margin-top: -45px;
 	margin-left: 285px;
 }
 .guide {
@@ -61,7 +62,7 @@
 .vic {
 	position: absolute;
 	width: 100000px;
-	margin-top: 53px;
+	margin-top: 59px;
 	margin-left: -290px;
 	font-family: Courier;
 	letter-spacing: 13.5px;
@@ -70,14 +71,14 @@
 	font-family: "Century Gothic";
 	font-size: 500px;
 	position: absolute;
-	margin-top: -215px;
+	margin-top: -210px;
 	margin-left: 192px;
 }
 .visible {
 	position: relative;
 	margin-top: 275px;
 	font-size: 100px;
-	margin-left: 235px;
+	margin-left: 227px;
 }
 .lab {
 	font-family: "Arial Narrow";
@@ -124,7 +125,7 @@
 	letter-spacing: 10px;
 }
 .bake { 
-	font-family:"Brush Script MT";
+	font-family:"Georgia";
 	font-size: 50px;
 }
 .weave { 
@@ -132,7 +133,7 @@
 	font-size: 50px;
 }
 .tailor { 
-	font-family:"Brush Script MT";
+	font-family:"Georgia";
 	font-size: 50px;
 }
 .sweep { 

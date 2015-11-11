@@ -23,8 +23,9 @@
 	position: fixed;
 	z-index: 2;
 	margin-left: -1010px;
-	margin-top: -1200px;
+	margin-top: -1250px;
 	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
 }
 .bar1 {
 	display: inline-block;
@@ -35,6 +36,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar2 {
 	position: relative;
@@ -47,6 +51,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar3 {
 	position: relative;
@@ -60,6 +67,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar4 {
 	position: relative;
@@ -73,6 +83,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar5 {
 	position: relative;
@@ -86,6 +99,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar6 {
 	position: relative;
@@ -99,6 +115,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar7 {
 	position: relative;
@@ -112,6 +131,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar8 {
 	position: relative;
@@ -125,6 +147,9 @@
 	transition-property: width;
     transition-duration: 60s;
     transition-timing-function: ease-out;
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 60s;
+    -webkit-transition-timing-function: ease-out;
 }
 .bar1:hover {
 	width: 0%;

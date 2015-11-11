@@ -1,7 +1,7 @@
 .paragraph {
 	text-align: left;
 	font-size: 45px;
-	font-family: "Brush Script MT";
+	font-family: "Arial";
 	position: absolute;
 }
 .sound {
@@ -49,7 +49,7 @@
 
 /*Letter O*/
 .like {
-	margin-top: -590px;
+	margin-top: -530px;
 	margin-left: 730px;
 }
 .gb {
@@ -69,7 +69,7 @@
 
 /*Letter U*/
 .best {
-	margin-top: -580px;
+	margin-top: -540px;
 	margin-left: 1125px;
 }
 .vo {
@@ -95,7 +95,7 @@
 
 /*Letter N*/
 .which {
-	margin-top: -600px;
+	margin-top: -540px;
 	margin-left: 1680px;
 }
 .monu {
@@ -115,31 +115,32 @@
 
 /*Letter D*/
 .lab2 {
-	margin-top: -560px;
+	margin-top: -540px;
 	margin-left: 2353px;
 }
 .lab3 {
-	margin-top: -300px;
-	margin-left: 2615px;
+	margin-top: -260px;
+	margin-left: 2650px;
 }
 .lab4 {
-	margin-left: 2605px;
+	margin-left: 2640px;
 }
 .lab5 {
-	margin-left: 2625px;
+	margin-left: 2670px;
 }
 .lab6 {
-	margin-left: 2225px;
+	margin-left: 2240px;
 }
 .lab7 {
-	margin-left: 2210px;
+	margin-left: 2230px;
 }
 .lab8 {
-	margin-left: 2230px;
+	margin-left: 2260px;
 }
 .monu2 {
 	margin-left: 2390px;
 }
+
 .leftover {
 	font-family: "Courier";
 	display: inline-block;

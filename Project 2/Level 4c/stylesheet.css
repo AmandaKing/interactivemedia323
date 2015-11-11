@@ -10,30 +10,33 @@
 	margin-left: 50px;
 }
 .vic {
-	margin-top: 365px;
+	margin-top: 350px;
 	margin-left: 130px;
-	width: 135px;
+	width: 115px;
+	height: 150px;
 }
 .view {
 	margin-top: 300px;
 	font-size: 25px;
-	width: 100px;
+	width: 90px;
 	text-align: center;
 	margin-left: 635px;
 }
 .best {
-	font-family: "Brush Script MT";
+	font-family: "Arial Black";
 	font-size: 50px;
+	margin-top: -10px;
+	margin-left: -10px;
 }
 .ishad {
 	margin-top: 235px;
 	margin-left: 1265px;
-	width: 100px;
+	width: 110px;
 	text-align: right;
 }
 .vis {
 	font-size: 14px;
-	margin-top: 320px;
+	margin-top: 335px;
 	margin-left: 1535px;
 	width: 130px;
 	text-align: right;
@@ -42,12 +45,16 @@
 	position: absolute;
 	font-size: 14px;
 	margin-top: 320px;
-	margin-left: 1695px;
-	width: 135px;
+	margin-left: 1700px;
+	width: 150px;
 	text-align: left;
 }
 ul {
 	position: absolute;
+	padding-right: -10px;
+}
+li {
+	padding-right: -10px;
 }
 .two { 
 	margin-left: 1710px;
@@ -59,7 +66,7 @@ ul {
 .use {
 	font-family: "Georgia";
 	font-size: 25px;
-	margin-top: 320px;
+	margin-top: 300px;
 	margin-left: 2000px;
 	width: 130px;
 	text-align: right;
@@ -67,7 +74,7 @@ ul {
 .user {
 	font-family: "Georgia";
 	font-size: 25px;
-	margin-top: 375px;
+	margin-top: 400px;
 	margin-left: 2005px;
 	width: 130px;
 	text-align: right;
@@ -79,10 +86,10 @@ ul {
 	text-align: left;
 }
 .tobe {
-	font-size: 100px;
+	font-size: 95px;
 	font-family: "Century Gothic";
-	margin-left: 5px;
-	letter-spacing: 11px;
+	margin-left: 87px;
+	letter-spacing: 10px;
 	margin-top: 565px;
 	width: 3000px;
 }

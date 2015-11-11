@@ -21,7 +21,7 @@
 	height: 4000px;
 	width: 6000px;
 	position: fixed;
-	z-index: 2;
+	z-index: 1;
 	margin-left: -1010px;
 	margin-top: -1250px;
 	transform: rotate(-90deg);
@@ -29,7 +29,7 @@
 }
 .bar1 {
 	display: inline-block;
-	z-index: 2;
+	z-index: 1;
 	background-color: #000000;
 	width: 100%;
 	height: 200px;
@@ -42,7 +42,7 @@
 }
 .bar2 {
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	display: inline-block;
 	background-color: #696969;
 	width: 100%;
@@ -57,7 +57,7 @@
 }
 .bar3 {
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #808080;
@@ -89,7 +89,7 @@
 }
 .bar5 {
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #C0C0C0;
@@ -105,7 +105,7 @@
 }
 .bar6 {
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #D3D3D3;
@@ -121,7 +121,7 @@
 }
 .bar7 {
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #DCDCDC;
@@ -183,12 +183,12 @@
 	position: fixed;
 	margin-top: 650px;
 	margin-left: -30px;
-	z-index: 2;
+	z-index: 3;
 	opacity: .3;
 }
 .nav2 {
 	position: fixed;
-	z-index: 2;
+	z-index: 3;
 	display: inline-block;
 	background-color: #696969;
 	width: 60px;
@@ -202,7 +202,7 @@
 }
 .nav3 {
 	position: fixed;
-	z-index: 2;
+	z-index: 3;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #808080;
@@ -218,7 +218,7 @@
 }
 .nav4 {
 	position: fixed;
-	z-index: 1;
+	z-index: 3;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #A9A9A9;
@@ -238,14 +238,14 @@
 	width: 500px;
 	margin-top: 650px;
 	margin-left: 1100px;
-	z-index: 2;
+	z-index: 3;
 	opacity: .3;
 	transform: rotateY(180deg);
 	-webkit-transform: rotateY(180deg);
 }
 .nav2a {
 	position: fixed;
-	z-index: 2;
+	z-index: 3;
 	display: inline-block;
 	background-color: #696969;
 	width: 60px;
@@ -259,7 +259,7 @@
 }
 .nav3a {
 	position: fixed;
-	z-index: 2;
+	z-index: 3;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #808080;
@@ -275,7 +275,7 @@
 }
 .nav4a {
 	position: fixed;
-	z-index: 1;
+	z-index: 3;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #A9A9A9;

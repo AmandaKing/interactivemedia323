@@ -109,20 +109,6 @@ a {
 .bar8:hover {
 	width: 0%;
 }
-/* unvisited link */
-a:link {
-    color: green;
-}
-
-/* visited link */
-a:visited {
-    color: green;
-}
-
-/* mouse over link */
-a:hover {
-    color: red;
-}
 .div {
 	position: fixed;
 	display: inline-block;
@@ -180,7 +166,7 @@ a:hover {
 	z-index: 2;
 	position: fixed;
 	margin-top: 75px;
-	color: #696969;
+	color: #808080;
 	margin-left: 400px;
 	font-size: 20px;
 	font-family: "Arial Black";
@@ -189,7 +175,7 @@ a:hover {
 	z-index: 1;
 	position: fixed;
 	margin-top: 160px;
-	color: #696969;
+	color: #A9A9A9;
 	margin-left: 500px;
 	font-size: 20px;
 	font-family: "Arial Black";
@@ -211,4 +197,77 @@ a:hover {
 	margin-left: 700px;
 	font-size: 20px;
 	font-family: "Arial Black";
+}
+
+/*LEVEL ONE LINK */
+a.level-one:link {
+    color: #696969;
+}
+a.level-one:visited {
+    color: #696969
+}
+a.level-one:hover {
+    color: #FFC0CB;
+}
+a.level-one:active {
+    color: #696969;
+}
+
+
+/* LEVEL TWO LINK*/
+a.level-two:link {
+    color: #808080;
+}
+a.level-two:visited {
+    color: #808080;
+}
+a.level-two:hover {
+    color: #FFC0CB;
+}
+a.level-two:active {
+    color: #808080;
+}
+
+
+/* LEVEL THREE LINK */
+a.level-three:link {
+    color: #A9A9A9;
+}
+a.level-three:visited {
+    color: #A9A9A9;
+}
+a.level-three:hover {
+    color: #FFC0CB;
+}
+a.level-three:active {
+    color: #A9A9A9;
+}
+
+
+/* LEVEL FOUR LINK */
+a.level-four:link {
+    color: #C0C0C0;
+}
+a.level-four:visited {
+    color: #C0C0C0;
+}
+a.level-four:hover {
+    color: #FFC0CB;
+}
+a.level-four:active {
+    color: #C0C0C0;
+}
+
+/* LEVEL FIVE LINK */
+a.level-five:link {
+    color: #D3D3D3;
+}
+a.level-five:visited {
+    color: #D3D3D3;
+}
+a.level-five:hover {
+    color: #FFC0CB;
+}
+a.level-five:active {
+    color: #D3D3D3;
 }

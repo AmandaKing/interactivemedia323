@@ -217,8 +217,27 @@ body {
 .key-container {
 	position: absolute;
 	height: 100px;
-	width: 500px;
+	width: 300px;
 	bottom: 50px;
-	left: -225px;
+	left: -118px;
 	top: 100px;
+	background-color: #D3D3D3;
+	border-radius: 10px;
+
+}
+.mousepad {
+	border-radius: 10px;
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	left: 350px;
+	position: relative;	
+}
+.mouse {
+	border-radius: 75px;
+	background-color: #D3D3D3;
+	width: 28px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 50px;
 }

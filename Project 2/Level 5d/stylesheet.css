@@ -160,7 +160,7 @@
 	float:left;
 	bottom: 0px;
 	left: 0px;
-	z-index: 2;
+	z-index: 3;
 	opacity: .3;
 }
 .nav2 {
@@ -216,7 +216,7 @@
 	float:right;
 	bottom: 0px;
 	right: 0px;
-	z-index: 2;
+	z-index: 3;
 	opacity: .3;
 	transform: rotateY(180deg);
 	-webkit-transform: rotateY(180deg);

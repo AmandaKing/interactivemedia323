@@ -12,18 +12,20 @@ body {
 	margin-right: 5000px;
 }
 /*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*/
+/*NAVIGATION ONLY*/
 .mnav { 
 	position: fixed;
-	height: 500px;
-	width: 500px;
-	margin-top: 650px;
-	margin-left: -1010px;
-	z-index: 3;
+	height: 10%;
+	width: 10%;
+	float:left;
+	bottom: 0px;
+	left: 0px;
+	z-index: 2;
 	opacity: .3;
 }
 .nav2 {
 	position: fixed;
-	z-index: 3;
+	z-index: 2;
 	display: inline-block;
 	background-color: #696969;
 	width: 60px;
@@ -37,7 +39,7 @@ body {
 }
 .nav3 {
 	position: fixed;
-	z-index: 3;
+	z-index: 2;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #808080;
@@ -53,7 +55,7 @@ body {
 }
 .nav4 {
 	position: fixed;
-	z-index: 3;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #A9A9A9;
@@ -69,18 +71,19 @@ body {
 }
 .mnav2 { 
 	position: fixed;
-	height: 500px;
-	width: 500px;
-	margin-top: 650px;
-	margin-left: 100px;
-	z-index: 3;
+	height: 10%;
+	width: 10%;
+	float:right;
+	bottom: 0px;
+	right: 0px;
+	z-index: 2;
 	opacity: .3;
 	transform: rotateY(180deg);
 	-webkit-transform: rotateY(180deg);
 }
 .nav2a {
 	position: fixed;
-	z-index: 3;
+	z-index: 2;
 	display: inline-block;
 	background-color: #696969;
 	width: 60px;
@@ -94,7 +97,7 @@ body {
 }
 .nav3a {
 	position: fixed;
-	z-index: 3;
+	z-index: 2;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #808080;
@@ -110,7 +113,7 @@ body {
 }
 .nav4a {
 	position: fixed;
-	z-index: 3;
+	z-index: 1;
 	margin-top: -10px;
 	display: inline-block;
 	background-color: #A9A9A9;

@@ -198,13 +198,14 @@ li {
 
 
 /*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*//*NAVIGATION*/
+/*NAVIGATION ONLY*/
 .mnav { 
 	position: fixed;
-	height: 500px;
-	width: 500px;
-	position: fixed;
-	margin-top: 650px;
-	margin-left: -30px;
+	height: 10%;
+	width: 10%;
+	float:left;
+	bottom: 0px;
+	left: 0px;
 	z-index: 2;
 	opacity: .3;
 }
@@ -256,10 +257,11 @@ li {
 }
 .mnav2 { 
 	position: fixed;
-	height: 500px;
-	width: 500px;
-	margin-top: 650px;
-	margin-left: 1100px;
+	height: 10%;
+	width: 10%;
+	float:right;
+	bottom: 0px;
+	right: 0px;
 	z-index: 2;
 	opacity: .3;
 	transform: rotateY(180deg);

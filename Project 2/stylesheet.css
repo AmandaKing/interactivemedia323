@@ -271,3 +271,11 @@ a.level-five:hover {
 a.level-five:active {
     color: #D3D3D3;
 }
+.title {
+	color: #A9A9A9;
+	font-size: 30px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+	text-align: right;
+}

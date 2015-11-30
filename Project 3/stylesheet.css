@@ -17,3 +17,13 @@ body {
 	top: 50%;
 	font-size: 30px;
 }
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+}
+a:active {
+    color: white;
+}

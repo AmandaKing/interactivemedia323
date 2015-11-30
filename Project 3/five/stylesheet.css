@@ -12,12 +12,6 @@ body {
 	top: 40%;
 	font-size: 50px;
 }
-.intro2 {
-	position: absolute;
-	margin-left: 30%;
-	top: 55%;
-	font-size: 50px;
-}
 a:link {
     color: white;
     text-decoration: none;

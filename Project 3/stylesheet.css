@@ -1,0 +1,19 @@
+body {
+	width: 1024px;
+	height: 100%;
+	background-color: black;
+	font-family: "Impact"; 
+	color: white;
+}
+.intro {
+	position: fixed;
+	right: 40px;
+	top: 40%;
+	font-size: 50px;
+}
+.intro2 {
+	position: fixed;
+	right: 45px;
+	top: 50%;
+	font-size: 30px;
+}

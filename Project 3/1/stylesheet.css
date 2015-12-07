@@ -4,13 +4,25 @@ body {
 	background-color: black;
 	font-family: "Impact"; 
 	color: white;
-	text-align: center;
 }
 .intro {
+	position: fixed;
+	display: block;
+	margin-left: 450px;
+	height: 300px;
+	top: 300px;
+}
+.ex {
+	font-size: 144px;
+	top: 50%;
+	left: 30%;
 	position: absolute;
-	margin-left: 43%;
-	top: 40%;
-	font-size: 50px;
+}
+.me {
+	font-size: 37px;
+	position: absolute;
+	margin-left: 420px;
+	margin-top: 257px;
 }
 a:link {
     color: white;

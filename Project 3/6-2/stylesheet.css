@@ -1,27 +1,33 @@
 body {
 	width: 1024px;
 	height: 100%;
-	background-color: black;
+	background-color: black; 
 	color: white;
 	text-align: center;
 }
 .intro {
 	position: absolute;
-	margin-left: 40%;
-	top: 40%;
+	margin-left: 25%;
+	top: 30%;
 }
-.wth {
+.be {
 	position: absolute;
-	font-family: "Century Gothic";
-	font-size: 34px;
-	width: 500px;
-	margin-left: -105px;
-	margin-top: 35px;
-}
-.ity {
-	position: absolute;
+	font-size: 340px;
 	font-family: "Impact";
-	font-size: 200px;
+}
+.conf {
+	font-family: "Impact";
+	font-size: 100px;
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 470px;
+}
+a {
+	font-family: "Impact";
+	font-size: 100px;
+	position: absolute;
+	margin-left: 470px;
+	margin-top: 80px;
 }
 a:link {
     color: white;

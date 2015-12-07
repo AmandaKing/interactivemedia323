@@ -10,17 +10,16 @@ body {
 	position: absolute;
 	margin-left: 45%;
 	top: 65%;
-	font-size: 50px;
 }
 .ih {
 	font-size: 15px;
 	font-family: "Century Gothic";
 	position: absolute;
-	width: 700px;
+	width: 300px;
 	text-transform: -90deg;
 	transform: rotate(-90deg);
 	margin-top: 61px;
-	margin-left: -290px;
+	margin-left: -90px;
 }
 .tpy {
 	font-size: 100px;
@@ -32,7 +31,7 @@ body {
 	font-size: 15px;
 	position: absolute;
 	width: 700px;
-	margin-top: 55px;
+	margin-top: 115px;
 	margin-left: 170px;
 }
 a:link {

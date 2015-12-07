@@ -2,15 +2,25 @@ body {
 	width: 1024px;
 	height: 100%;
 	background-color: black;
-	font-family: "Impact"; 
 	color: white;
-	text-align: center;
 }
 .intro {
 	position: absolute;
-	margin-left: 30%;
-	top: 40%;
-	font-size: 50px;
+	margin-top: 30px;
+}
+.intro2 {
+	position: absolute;
+	font-family: "Impact";
+	font-size: 400px;
+	margin-top: -65px;
+	margin-left: 50px;
+}
+.intro3 {
+	position: absolute;
+	font-family: "Impact";
+	font-size: 400px;
+	margin-top: 270px;
+	margin-left: 605px;
 }
 a:link {
     color: white;

@@ -2,15 +2,19 @@ body {
 	width: 1024px;
 	height: 100%;
 	background-color: black;
-	font-family: "Impact"; 
+	font-family: "Century Gothic"; 
 	color: white;
-	text-align: right
+	text-align: left;
+	text-align: justify;
 }
 .intro {
 	position: absolute;
-	right: 70px;
-	top: 40%;
-	font-size: 60px;
+	left: 20px;
+	font-size: 25px;
+	width: 650px;
+}
+.listen2 {
+	float: right
 }
 a:link {
     color: white;

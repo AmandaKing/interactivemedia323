@@ -1,16 +1,22 @@
 body {
 	width: 1024px;
 	height: 100%;
-	background-color: black;
-	font-family: "Impact"; 
+	background-color: black; 
 	color: white;
-	text-align: center;
 }
 .intro {
 	position: absolute;
-	margin-left: 30%;
-	top: 40%;
-	font-size: 50px;
+	margin-left: 50px;
+	top: 20%;
+	font-family: "Century Gothic";
+	font-size: 25px;
+}
+a {
+	position: absolute;
+	bottom: 100px;
+	right: 50px;
+	font-size: 100px;
+	font-family: "Impact";
 }
 a:link {
     color: white;

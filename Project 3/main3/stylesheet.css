@@ -2,15 +2,38 @@ body {
 	width: 1024px;
 	height: 100%;
 	background-color: black;
-	font-family: "Impact"; 
 	color: white;
-	text-align: center;
+	text-align: right;
 }
 .intro {
 	position: absolute;
-	margin-left: 30%;
-	top: 40%;
-	font-size: 50px;
+	right: 10px;
+	left: 10px;
+	height: 300px;
+	bottom: 10px;
+}
+.intro2 {
+	position: absolute;
+	font-family: "Century Gothic";
+	font-size: 40px;
+	text-transform: -50deg;
+	transform: rotate(-50deg);
+	margin-top:135px;
+	right: 540px;
+}
+.listen {
+	position: absolute;
+	right: 10px;
+	font-size: 150px;
+	font-family: "Century Gothic";
+	bottom: 10px;
+}
+.introo {
+	position: absolute;
+	font-family: "Century Gothic";
+	font-size: 32px;
+	margin-top:260px;
+	right: 5px;
 }
 a:link {
     color: white;

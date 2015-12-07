@@ -2,21 +2,25 @@ body {
 	width: 1024px;
 	height: 100%;
 	background-color: black;
-	font-family: "Impact"; 
 	color: white;
-	text-align: center;
+	text-align: right;
 }
 .intro {
 	position: absolute;
-	margin-left: 30%;
+	height: 450px;
+	width: 1000px;
+	border: 2px solid violet;
 	top: 40%;
-	font-size: 50px;
 }
-.intro2 {
+.you {
 	position: absolute;
-	margin-left: 30%;
-	top: 55%;
-	font-size: 50px;
+	font-family: "Impact";
+	font-size: 150px;
+}
+.listen {
+	position: absolute;
+	font-family: "Impact";
+	font-size: 150px;
 }
 a:link {
     color: white;

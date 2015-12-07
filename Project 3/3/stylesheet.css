@@ -7,28 +7,66 @@ body {
 }
 .intro {
 	position: absolute;
-	height: 450px;
-	width: 1000px;
-	border: 2px solid violet;
+	right: 10px;
+	left: 10px;
+	height: 350px;
+	overflow: hidden;
 	top: 40%;
+}
+.introo {
+	font-family: "Century Gothic";
+	font-size: 20px;
+	display: inline-block;
+	text-align: left;
+	margin-top: 107px;
+	margin-right: 100px;
+}
+.introoo {
+	font-family: "Century Gothic";
+	font-size: 20px;
+	display: block;
+	text-align: right;
+	margin-right: 100px;
+	margin-top: 150px;
 }
 .you {
 	position: absolute;
 	font-family: "Impact";
 	font-size: 150px;
+	right: 100px;
+	margin-top: 150px;
 }
 .listen {
 	position: absolute;
 	font-family: "Impact";
 	font-size: 150px;
+	right: 300px;
 }
-a:link {
+a.listen:link {
     color: white;
     text-decoration: none;
 }
-a:visited {
+a.listen:visited {
     color: white;
 }
-a:active {
+a.listen:hover {
+    color: #8B0000;
+    text-decoration: underline;
+}
+a.listen:active {
+    color: white;
+}
+a.you:link {
+    color: white;
+    text-decoration: none;
+}
+a.you:visited {
+    color: white;
+}
+a.you:hover {
+    color: #4B0082;
+    text-decoration: underline;
+}
+a.you:active {
     color: white;
 }

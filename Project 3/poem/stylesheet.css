@@ -2,28 +2,21 @@ body {
 	width: 1024px;
 	height: 100%;
 	background-color: black;
-	font-family: "Impact"; 
+	font-family: "Century Gothic"; 
 	color: white;
 }
 .intro {
 	position: fixed;
-	display: block;
-	margin-left: 450px;
-	height: 300px;
-	top: 300px;
-	width: 700px;
+	right: 40px;
+	top: 40%;
 }
-.em {
-	font-size: 144px;
-	top: 50%;
-	left: 30%;
+p {
 	position: absolute;
+	font-size: 15.5px;
 }
-.me {
-	font-size: 37px;
+a {
 	position: absolute;
-	margin-left: 630px;
-	margin-top: 257px;
+	left: 5px;
 }
 a:link {
     color: white;
